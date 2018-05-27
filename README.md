@@ -6,4 +6,9 @@ The goal is to use the predictor variables to predict the probability that a cer
 
 For details please see https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/page/85/. 
 
+Notes: 
+"Instantiation_of_base_model.py" is based on the winning model from the previous competition by Quoc Le. This model was presented in the great DataCamp course by Peter Bull titled "Machine Learning with the Experts: School Budgets".
 
+"SparseInteractions.py" is from the following GitHub repository: https://github.com/drivendataorg/box-plots-sklearn.
+
+Thank you guys!
