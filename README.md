@@ -10,5 +10,3 @@ Notes:
 "Instantiation_of_base_model.py" is based on the winning model from the previous competition by Quoc Le. This model was presented in the great DataCamp course by Peter Bull titled "Machine Learning with the Experts: School Budgets".
 
 "SparseInteractions.py" is from the following GitHub repository: https://github.com/drivendataorg/box-plots-sklearn.
-
-Thank you guys!
