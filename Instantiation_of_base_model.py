@@ -31,11 +31,9 @@ pl = Pipeline([
                                                      binary=False,
                                                      ngram_range=(1, 2)
                     )),
-                    #('dim_red', SelectKBest(chi2, chi_k))
                 ]))
              ]
         )),
         ('int', SparseInteractions(degree=2)),
-        #('scale', MaxAbsScaler()),
         ('clf', OneVsRestClassifier(LogisticRegression()))
     ])
